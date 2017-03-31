@@ -1,0 +1,23 @@
+#main-logo {
+	border:7px solid white;
+	box-shadow:3px 3px 5px black;
+	height:40%;
+	width:40%;
+}
+
+.gallery {
+	background: rgba(255,255,255,0.9);
+	display:inline-block;
+    margin:5px;
+    border:1px solid #ccc;
+    width:180px;
+}
+
+.gallery:hover {
+    border:1px solid #777;
+}
+
+.gallery img {
+    width:100%;
+    height:auto;
+}
